@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="projeto" Class="ProjetoDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=projeto;Integrated Security=True" SettingsObjectName="Projeto.DataAccess.Properties.Settings" SettingsPropertyName="projetoConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.cidade" Member="Cidade">
+    <Type Name="Cidade">
+      <Column Name="id_cidade" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nome" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="estado" Type="System.String" DbType="Char(2) NOT NULL" CanBeNull="false" />
+      <Association Name="Cidade_Endereco" Member="Endereco" ThisKey="id_cidade" OtherKey="cidade" Type="Endereco" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tipo_produto" Member="TipoProduto">
+    <Type Name="TipoProduto">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nome" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="TipoProduto_Produto" Member="Produto" ThisKey="id" OtherKey="id_tipo_produto" Type="Produto" />
+    </Type>
+  </Table>
+  <Table Name="dbo.endereco" Member="Endereco">
+    <Type Name="Endereco">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="rua" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="numero" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="bairro" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="cidade" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="cep" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Endereco_Cliente" Member="Cliente" ThisKey="id" OtherKey="id_endereco" Type="Cliente" />
+      <Association Name="Cidade_Endereco" Member="Cidade1" ThisKey="cidade" OtherKey="id_cidade" Type="Cidade" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.marca" Member="Marca">
+    <Type Name="Marca">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nome" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Association Name="Marca_Modelo" Member="Modelo" ThisKey="id" OtherKey="marca" Type="Modelo" />
+    </Type>
+  </Table>
+  <Table Name="dbo.modelo" Member="Modelo">
+    <Type Name="Modelo">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nome" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="marca" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Modelo_ProdutoModelo" Member="ProdutoModelo" ThisKey="id" OtherKey="id_modelo" Type="ProdutoModelo" />
+      <Association Name="Marca_Modelo" Member="Marca1" ThisKey="marca" OtherKey="id" Type="Marca" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.produto_modelo" Member="ProdutoModelo">
+    <Type Name="ProdutoModelo">
+      <Column Name="id_produto" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_modelo" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Association Name="Modelo_ProdutoModelo" Member="Modelo" ThisKey="id_modelo" OtherKey="id" Type="Modelo" IsForeignKey="true" />
+      <Association Name="Produto_ProdutoModelo" Member="Produto" ThisKey="id_produto" OtherKey="id" Type="Produto" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.cliente" Member="Cliente">
+    <Type Name="Cliente">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nome" Type="System.String" DbType="NVarChar(90)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="NVarChar(80)" CanBeNull="true" />
+      <Column Name="id_endereco" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="celular" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="tel_fixo" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="data_nasc" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Association Name="Cliente_Venda" Member="Venda" ThisKey="id" OtherKey="id_cliente" Type="Venda" />
+      <Association Name="Endereco_Cliente" Member="Endereco" ThisKey="id_endereco" OtherKey="id" Type="Endereco" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.venda_cancel" Member="VendaCancel">
+    <Type Name="VendaCancel">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_venda" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="motivo" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="data" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Association Name="Venda_VendaCancel" Member="Venda" ThisKey="id_venda" OtherKey="id" Type="Venda" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.venda" Member="Venda">
+    <Type Name="Venda">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="data" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="valortotal" Type="System.Decimal" DbType="Decimal(12,2)" CanBeNull="true" />
+      <Column Name="id_cliente" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ativo" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="Venda_VendaCancel" Member="VendaCancel" ThisKey="id" OtherKey="id_venda" Type="VendaCancel" />
+      <Association Name="Venda_itens_venda" Member="ItensVenda" ThisKey="id" OtherKey="id_venda" Type="ItensVenda" />
+      <Association Name="Cliente_Venda" Member="Cliente" ThisKey="id_cliente" OtherKey="id" Type="Cliente" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.entrada_cancel" Member="EntradaCancel">
+    <Type Name="EntradaCancel">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_entrada" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="data" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="motivo" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Association Name="Entrada_EntradaCancel" Member="Entrada" ThisKey="id_entrada" OtherKey="id" Type="Entrada" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.produto" Member="Produto">
+    <Type Name="Produto">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="codigo" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="descricao" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="valor" Type="System.Decimal" DbType="Decimal(12,2)" CanBeNull="true" />
+      <Column Name="marca" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="modelo" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="id_tipo_produto" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="especie" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="cod_equi" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="qtde_alerta" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Produto_ProdutoModelo" Member="ProdutoModelo" ThisKey="id" OtherKey="id_produto" Type="ProdutoModelo" />
+      <Association Name="Produto_Entrada" Member="Entrada" ThisKey="id" OtherKey="id_produto" Type="Entrada" />
+      <Association Name="Produto_Estoque" Member="Estoque" ThisKey="id" OtherKey="id_produto" Type="Estoque" />
+      <Association Name="Produto_itens_venda" Member="ItensVenda" ThisKey="id" OtherKey="id_produto" Type="ItensVenda" />
+      <Association Name="TipoProduto_Produto" Member="TipoProduto" ThisKey="id_tipo_produto" OtherKey="id" Type="TipoProduto" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.entrada" Member="Entrada">
+    <Type Name="Entrada">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="data" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="qtde" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="valor_compra" Type="System.Decimal" DbType="Decimal(12,2)" CanBeNull="true" />
+      <Column Name="id_produto" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ativo" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="C_ou_S" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Association Name="Entrada_EntradaCancel" Member="EntradaCancel" ThisKey="id" OtherKey="id_entrada" Type="EntradaCancel" />
+      <Association Name="Produto_Entrada" Member="Produto" ThisKey="id_produto" OtherKey="id" Type="Produto" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.estoque" Member="Estoque">
+    <Type Name="Estoque">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_produto" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="qtde" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="qtde_C" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="qtde_S" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Produto_Estoque" Member="Produto" ThisKey="id_produto" OtherKey="id" Type="Produto" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.itens_venda" Member="ItensVenda">
+    <Type Name="ItensVenda">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_produto" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="valor_venda" Type="System.Decimal" DbType="Decimal(12,2) NOT NULL" CanBeNull="false" />
+      <Column Name="id_venda" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="qtde" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="C_ou_S" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Association Name="Venda_itens_venda" Member="Venda" ThisKey="id_venda" OtherKey="id" Type="Venda" IsForeignKey="true" />
+      <Association Name="Produto_itens_venda" Member="Produto" ThisKey="id_produto" OtherKey="id" Type="Produto" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

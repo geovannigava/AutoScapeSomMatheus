@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{927AD8E6-ECF0-4617-A097-D7B61ED0FEFA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ScapeSaoMateus</RootNamespace>
+    <AssemblyName>ScapeSaoMateus</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlertaProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlertaProduto.Designer.cs">
+      <DependentUpon>AlertaProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadCarroModelo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadCarroModelo.Designer.cs">
+      <DependentUpon>CadCarroModelo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadCliente.Designer.cs">
+      <DependentUpon>CadCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadEscapamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadEscapamento.Designer.cs">
+      <DependentUpon>CadEscapamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadProduto.Designer.cs">
+      <DependentUpon>CadProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadVendas.Designer.cs">
+      <DependentUpon>CadVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsEntrada.Designer.cs">
+      <DependentUpon>ConsEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsEstoque.Designer.cs">
+      <DependentUpon>ConsEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsVenda.Designer.cs">
+      <DependentUpon>ConsVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="EmiteRelatorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmiteRelatorios.Designer.cs">
+      <DependentUpon>EmiteRelatorios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EstoqueEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstoqueEntrada.Designer.cs">
+      <DependentUpon>EstoqueEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIPrincipal.Designer.cs">
+      <DependentUpon>MDIPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotivoCancel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotivoCancel.Designer.cs">
+      <DependentUpon>MotivoCancel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="projetoDataSetRelatorio.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>projetoDataSetRelatorio.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RelClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelClientes.Designer.cs">
+      <DependentUpon>RelClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelEntCancel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelEntCancel.Designer.cs">
+      <DependentUpon>RelEntCancel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelEntrada.Designer.cs">
+      <DependentUpon>RelEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelEstTotal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelEstTotal.Designer.cs">
+      <DependentUpon>RelEstTotal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelVend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelVend.Designer.cs">
+      <DependentUpon>RelVend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelVendCancel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelVendCancel.Designer.cs">
+      <DependentUpon>RelVendCancel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelecionaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelecionaCliente.Designer.cs">
+      <DependentUpon>SelecionaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelecionaProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelecionaProduto.Designer.cs">
+      <DependentUpon>SelecionaProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="AlertaProduto.resx">
+      <DependentUpon>AlertaProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadCarroModelo.resx">
+      <DependentUpon>CadCarroModelo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadCliente.resx">
+      <DependentUpon>CadCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadEscapamento.resx">
+      <DependentUpon>CadEscapamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadProduto.resx">
+      <DependentUpon>CadProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadVendas.resx">
+      <DependentUpon>CadVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsEntrada.resx">
+      <DependentUpon>ConsEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsEstoque.resx">
+      <DependentUpon>ConsEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsVenda.resx">
+      <DependentUpon>ConsVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmiteRelatorios.resx">
+      <DependentUpon>EmiteRelatorios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstoqueEntrada.resx">
+      <DependentUpon>EstoqueEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIPrincipal.resx">
+      <DependentUpon>MDIPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotivoCancel.resx">
+      <DependentUpon>MotivoCancel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RelAlertaProd.rdlc" />
+    <EmbeddedResource Include="RelatorioEntCancel.rdlc" />
+    <EmbeddedResource Include="RelatorioEntrada.rdlc" />
+    <EmbeddedResource Include="RelClientes.resx">
+      <DependentUpon>RelClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelEntCancel.resx">
+      <DependentUpon>RelEntCancel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelEntrada.resx">
+      <DependentUpon>RelEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelEstTotal.resx">
+      <DependentUpon>RelEstTotal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelVend.resx">
+      <DependentUpon>RelVend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelVendCancel.resx">
+      <DependentUpon>RelVendCancel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="repEstTotal.rdlc" />
+    <EmbeddedResource Include="repRelCliente.rdlc" />
+    <EmbeddedResource Include="repVend.rdlc" />
+    <EmbeddedResource Include="repVendCancel.rdlc" />
+    <EmbeddedResource Include="SelecionaCliente.resx">
+      <DependentUpon>SelecionaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelecionaProduto.resx">
+      <DependentUpon>SelecionaProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="projetoDataSetRelatorio.xsc">
+      <DependentUpon>projetoDataSetRelatorio.xsd</DependentUpon>
+    </None>
+    <None Include="projetoDataSetRelatorio.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>projetoDataSetRelatorio.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="projetoDataSetRelatorio.xss">
+      <DependentUpon>projetoDataSetRelatorio.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\Projeto.DataAccess.Cidade.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Projeto.DataAccess\Projeto.DataAccess.csproj">
+      <Project>{a537b1c4-ac37-4252-9da6-58e1dab02121}</Project>
+      <Name>Projeto.DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

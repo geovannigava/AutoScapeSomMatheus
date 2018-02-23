@@ -1,0 +1,215 @@
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Projeto.DataAccess.dll.config
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Projeto.DataAccess.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Projeto.DataAccess.pdb
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\obj\Debug\Projeto.DataAccess.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\obj\Debug\Projeto.DataAccess.pdb
+C:\Users\batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Projeto.DataAccess.dll.config
+C:\Users\batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Projeto.DataAccess.dll
+C:\Users\batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Projeto.DataAccess.pdb
+C:\Users\batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\obj\Debug\Projeto.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\obj\Debug\Projeto.DataAccess.dll
+C:\Users\batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\obj\Debug\Projeto.DataAccess.pdb
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\EnvDTE.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\stdole.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Batou\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Projeto.DataAccess.dll.config
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Projeto.DataAccess.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Projeto.DataAccess.pdb
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\EnvDTE.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\stdole.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\obj\Debug\Projeto.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\obj\Debug\Projeto.DataAccess.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus 06-07-17\ScapeSaoMateus\Projeto.DataAccess\obj\Debug\Projeto.DataAccess.pdb
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\EnvDTE.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\stdole.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Saito\Documents\Visual Studio 2017\Projects\ScapeSaoMateus\Projeto.DataAccess\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll

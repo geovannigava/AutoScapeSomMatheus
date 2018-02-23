@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScapeSaoMateus", "ScapeSaoMateus\ScapeSaoMateus.csproj", "{927AD8E6-ECF0-4617-A097-D7B61ED0FEFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto.DataAccess", "Projeto.DataAccess\Projeto.DataAccess.csproj", "{A537B1C4-AC37-4252-9DA6-58E1DAB02121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{927AD8E6-ECF0-4617-A097-D7B61ED0FEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927AD8E6-ECF0-4617-A097-D7B61ED0FEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927AD8E6-ECF0-4617-A097-D7B61ED0FEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927AD8E6-ECF0-4617-A097-D7B61ED0FEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A537B1C4-AC37-4252-9DA6-58E1DAB02121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A537B1C4-AC37-4252-9DA6-58E1DAB02121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A537B1C4-AC37-4252-9DA6-58E1DAB02121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A537B1C4-AC37-4252-9DA6-58E1DAB02121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
